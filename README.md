@@ -1,3 +1,6 @@
+<h1>Upwork Proposal</h1>
+
+
 <h2>Cover Letter</h2>
 <p>Hi! I am Angga a Full-Stack Developer and a bachelor's degree in computer science I have experience building apps such as e-commerce, arena game, Geografis, etc. 
 I will work better on this project, like what I've been working on in my last project, I'm always helping any client to how solved problems such as how to make the business up, company, and also I have the experience to develop a family app this problems app such as how to know about her children activity in outdoor, I can work as team use Jira Eagle scrum and use git Github/Gitlab/Bitbucket and also I can work as individual such as what I have been being now a freelancer, I will work hard for your project and help to solve any problems together</p>
