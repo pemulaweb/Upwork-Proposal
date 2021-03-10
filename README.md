@@ -16,3 +16,8 @@ I will work better on this project, like what I've been working on in my last pr
 
 <h2>Which part of this project do you think will take the most time?</h2>
 <p>According to your job details, I have years of experience in both fields. And I always use the updated techniques and win the competition. I have a strong belief that I would be able to make this project successful within a short time.</p>
+
+
+<h2>other Cover Later</h2>
+<p>This letter is to express my interest in your posting for a frontend Angular Developer. With a Bachelor’s degree in Computer Science, Master’s degree in Information Technology, and hands-on experience using Angular TypeScript languages to create and implement software applications, I am confident I will be an asset to your organization. Your listed requirements closely match my background and skills. A few I would like to highlight that would enable me to contribute to your bottom line are,
+Angular Best Practice, TypeScript, Full Understanding of Angular Architecture and Best Practices, and also Html CSS in the other I also can make API from the server-side</p>
