@@ -21,3 +21,36 @@ I will work better on this project, like what I've been working on in my last pr
 <h2>other Cover Later</h2>
 <p>This letter is to express my interest in your posting for a frontend Angular Developer. With a Bachelor’s degree in Computer Science, Master’s degree in Information Technology, and hands-on experience using Angular TypeScript languages to create and implement software applications, I am confident I will be an asset to your organization. Your listed requirements closely match my background and skills. A few I would like to highlight that would enable me to contribute to your bottom line are,
 Angular Best Practice, TypeScript, Full Understanding of Angular Architecture and Best Practices, and also Html CSS in the other I also can make API from the server-side</p>
+
+#Test Angular Movie
+Front-end Angular.js 
+=========================================== 
+Logic Test 
+Anagram adalah istilah dimana suatu string jika dibolak balik ordernya maka akan  sama eg. 'aku' dan 'kua' adalah Anagram, 'aku' dan 'aka' bukan Anagram. Dibawah ini ada array berisi sederetan Strings. 
+['kita', 'atik', 'tika', 'aku', 'kia', 'makan', 'kua'] 
+Silahkan kelompokkan/group kata-kata di dalamnya sesuai dengan kelompok  Anagramnya, 
+Catatan: tidak boleh menggunakan syntax es6 map, sort, reduce, find, filter # Expected Outputs 
+[ 
+ ["kita", "atik", "tika"], 
+ ["aku", "kua"], 
+ ["makan"], 
+ ["kia"] 
+] 
+=========================================== 
+Angular Dev Test 
+Create a simple Angular app for movies that consume data from http://www.omdbapi.com 
+API key: faf7e5bb 
+Example API call: 
+http://www.omdbapi.com?apikey=faf7e5bb&s=Batman&page=2 Features to be implemented: 
+- Display List of movies 
+- Use Infinite Scroll tanpa plugin untuk jumlah search result yg panjang > 5 - Search movies by keyword 
+- Single Page for Single Movie Detail 
+- Show Movie Poster in a popup modal window when image from the list is clicked - Unit test for components 
+- Autocomplete searchbox implementation is a big plus
+Project must use/have : 
+- AngularJS 
+- RxJS
+- Axios 
+- Good, sensible file structuring that promotes modularity and good separation of  logical/UI layers 
+- Written Test Cases for the components 
+- Showing some display of Angular Hooks knowledge is a plus
