@@ -1,5 +1,6 @@
 <h1>Upwork Proposal</h1>
-
+bab4 buat table hasil arduino 
+bab1 buat stastictic pencurian motor
 
 <h2>Cover Letter</h2>
 <p>Hi! I am Angga a Full-Stack Developer and a bachelor's degree in computer science I have experience building apps such as e-commerce, arena game, Geografis, etc. 
